@@ -1,7 +1,0 @@
-123
-ありがとう
-<<<<<<< HEAD
-project123123
-=======
-ryuujin no ken wo kurae
->>>>>>> bf720470d2dbf4dfececa4ce99b1925c009fa4ef
